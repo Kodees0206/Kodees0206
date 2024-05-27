@@ -2,6 +2,8 @@
 
  🌱 I’m currently learning ...
 
+ Hi, I'm Kodeeswaran M. I completed my UG at Lovely Professional University in 2023. Currently pursuing Java Full Stack Development Course in Great Learning, Chennai. My decision to pursue further education in Java Full Stack Development stems from my passion for creating innovative software solutions. At Great Learning, I am honing my skills in frontend and backend development, mastering technologies such as HTML, CSS, JavaScript, ReactJs, Spring Boot, and Hibernate.
+
 <!--
 **Kodees0206/Kodees0206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
